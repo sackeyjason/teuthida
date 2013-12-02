@@ -22,4 +22,6 @@ Storing CSS in variables is an alternative to using a CSS inliner too like [this
 
 ## To-do
 
-- write the code and upload it!
+- the proper grid
+- instructions
+- iterations
