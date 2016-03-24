@@ -1,3 +1,9 @@
+This project is sunsetted, abandonned, extinguished.
+
+Instead check out http://foundation.zurb.com/emails.html
+
+---
+
 # Teuthida
 
 ## A human workflow for lovely cross-client compatible email templates, with a responsive grid framework.
